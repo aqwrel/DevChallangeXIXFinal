@@ -1,0 +1,26 @@
+{
+  "name": "devchallengefinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqwrel/devChallengeFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqwrel/devChallengeFinal/issues"
+  },
+  "homepage": "https://github.com/aqwrel/devChallengeFinal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
