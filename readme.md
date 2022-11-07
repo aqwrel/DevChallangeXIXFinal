@@ -30,13 +30,13 @@ Design. Example of the design below (ePPO app)
 
 |  *Evaluation criteria* | *Points* | *Result* |
 |---|---|---|
-|  **Technical assessment** | **436** |  |
-| Correct city prediction |  128 |   |
-|  Distance to city |  128 |  |
-|  Layout and compass animation |  64 |  |
-|  Deployed application |  64 |  |
-|  **Expert assessment** |  **128** |  |
-|  Code quality |  128 |  |
-|  **Bonus points** |  128 |  |
-|  PWA | 128 |  |
+|  **Technical assessment** | **436** | **346** |
+| Correct city prediction |  128 |  102 |
+|  Distance to city |  128 | 128 |
+|  Layout and compass animation |  64 | 52 |
+|  Deployed application |  64 | 64 |
+|  **Expert assessment** |  **128** | **104** |
+|  Code quality |  128 | 104 |
+|  **Bonus points** |  **128** | **111** |
+|  PWA | 128 | 111 |
 |  **Result** |  | **561** |
